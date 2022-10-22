@@ -9,7 +9,7 @@ int main () {
 
 	int change = AMOUNT - price;
 
-	printf("ÕÒÄú%dÔª¡£", change);
+	printf("ÕÒÄú%dÔª¡£\n", change);
 
 	return 0;
 }
